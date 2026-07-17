@@ -1,6 +1,6 @@
 # Understanding the basics of Sound Synthesis using Python
 
-## Tutorial followed: 
+### Tutorial followed: 
 https://youtu.be/2jYpAamxb-8?si=ygvzZfj-NLdy3PJj
 
 ### Libraries used:
