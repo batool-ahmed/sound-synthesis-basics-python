@@ -7,9 +7,9 @@
 - NumPy
 
 ### Features:
-- White noise generation
-- Single sine wave tone generation
-- Multiple sine waves generation and their combination (using varying frequencies and amplitudes)
-- Beat generation
+- White noise
+- Single sine wave tone
+- Multiple sine waves and their combination (using varying frequencies and amplitudes)
+- Beats
 - Sine wave with harmonic frequency
 - Sine wave with inharmonic frequency
