@@ -1,6 +1,7 @@
 # Understanding the basics of Sound Synthesis using Python
 
-## Using tutorial: https://youtu.be/2jYpAamxb-8?si=ygvzZfj-NLdy3PJj
+## Tutorial followed: 
+https://youtu.be/2jYpAamxb-8?si=ygvzZfj-NLdy3PJj
 
 ### Libraries used:
 - sounddevice
