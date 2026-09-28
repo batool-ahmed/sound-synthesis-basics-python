@@ -1,4 +1,4 @@
-# Understanding the basics of Sound Synthesis using Python
+# Understanding Sound Synthesis (using Python)
 
 ### Tutorial followed: 
 https://youtu.be/2jYpAamxb-8?si=ygvzZfj-NLdy3PJj
